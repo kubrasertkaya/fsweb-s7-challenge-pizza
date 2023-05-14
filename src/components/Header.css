@@ -36,3 +36,12 @@ h1{
     .pricing-padding {
         padding-left: 10px;
     }
+
+    .toppings{
+        display: flexbox;
+        justify-items: center;
+        flex-wrap: wrap;
+        margin: 20px;
+        padding: 20px;
+        border: 1px;
+    }

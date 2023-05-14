@@ -1,4 +1,33 @@
+
+
 .homepage{
     background-color:#CE2829;
     color: white;
+    margin: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.my-button{
+    background-color:rgb(193, 116, 15);
+    color:cornsilk;
+    text-shadow: 5 5 #a81d1d;
+    text-decoration-style: solid;
+    border-radius: 30%;
+    width: 200%;
+    height: 100%;
+    padding: 15%;
+    font-size:medium;
+    font-style: oblique;
+    
+}
+.text-home{
+    font-style: initial;
+    font-size: x-large;
+    color:white
+}
+.title{
+    font-weight: lighter;
+    font-style: inherit;
 }
